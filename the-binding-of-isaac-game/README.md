@@ -1,0 +1,3 @@
+# The binding of Isaac game
+
+The binding of Isaac game es un videojuego inspirado en el videojuego original 'The binding of Isaac'. El proyecto es del genero videojuego de mazmorras con cámara 2D con vista aérea, donde controlas a tu personaje dentro de un entorno con cuartos generados aleatoriamente. En cada cuarto aparecen enemigos donde tu objetivo es acabar con ellos para seguir explorando. En el transcurso de tu aventura encontraras objetos que modificaran tus ataques e incrementaran tu daño. Tu objetivo final es explorar todos los cuartos sin morir.
